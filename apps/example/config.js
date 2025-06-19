@@ -2,11 +2,12 @@
  * @type {import('@mi-gpt/next').MiGPTConfig}
  */
 export default {
+  debug: false, // 是否开启调试模式
   speaker: {
     /**
      * 小爱音箱在米家中设置的名称
      *
-     * 如果提示找不到设备，请打开 debug 选项获取设备真实的 name、miotDID 或 mac 地址填入
+     * 如果提示找不到设备，请打开调试模式获取设备真实的 name、miotDID 或 mac 地址填入
      */
     did: 'Xiaomi 智能音箱 Pro',
     /**
