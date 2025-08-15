@@ -5,13 +5,13 @@ MIoT 非官方 Node.js 客户端
 ## 安装依赖
 
 ```shell
-pnpm install mi-service-lite
+pnpm install @mi-gpt/miot
 ```
 
 ## 使用教程
 
 ```typescript
-import { getMIoT, getMiNA, type MiServiceConfig } from "mi-service-lite";
+import { getMIoT, getMiNA, type MiServiceConfig } from "@mi-gpt/miot";
 
 async function main() {
   const config: MiServiceConfig = {
@@ -58,4 +58,4 @@ main();
 
 ## License
 
-[MIT](https://github.com/idootop/migpt-next/blob/main/LICENSE) License © 2024-PRESENT Del Wang
+MIT License © 2024-PRESENT [Del Wang](https://del.wang)

@@ -143,4 +143,4 @@ async onMessage(engine, msg) {
 
 ## License
 
-[MIT](LICENSE) License © 2024-PRESENT Del Wang
+MIT License © 2024-PRESENT [Del Wang](https://del.wang)

@@ -225,4 +225,4 @@ await MiGPT.start({
 
 ## License
 
-[MIT](https://github.com/idootop/migpt-next/blob/main/LICENSE) License © 2024-PRESENT Del Wang
+MIT License © 2024-PRESENT [Del Wang](https://del.wang)
